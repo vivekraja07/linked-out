@@ -4,12 +4,12 @@ import 'firebase/database';
 
 
 const config = {
-    apiKey: "AIzaSyCIUpMBoPpoengkNue38ox18cgRwWciau0",
-    authDomain: "linkedout-c0b36.firebaseapp.com",
-    databaseURL: "https://linkedout-c0b36.firebaseio.com",
-    projectId: "linkedout-c0b36",
-    storageBucket: "linkedout-c0b36.appspot.com",
-    messagingSenderId: "791782403458"
+  apiKey: "AIzaSyCX-8zStKMmD5WWZH1IvA36DtYVw2RKWGk",
+  authDomain: "tasksdemo-43775.firebaseapp.com",
+  databaseURL: "https://tasksdemo-43775.firebaseio.com",
+  projectId: "tasksdemo-43775",
+  storageBucket: "tasksdemo-43775.appspot.com",
+  messagingSenderId: "341537849661"
   };
 
 class Firebase {
